@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Jayanth 👋</h1>
 
-<h3 align="center">A passionate developer crafting awesome software</h3>
+<h3 align="center">A passionate developer crafting awesome Software and AI Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Developer;FDE;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **exciting projects**
+- 🔭 I’m currently working on **Agentic AI Project**
 - 🌱 I’m currently learning **new technologies and frameworks**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **web development, programming, and tech**
+- 💬 Ask me about **AI & Backend Tech**
 - 📫 How to reach me: **Drop a message on my socials below!**
 - ⚡ Fun fact: **I love coding and coffee!**
 
@@ -30,8 +30,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
@@ -62,10 +60,8 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Jayanth-503" target="_blank">
+  <a href="https://linkedin.com/in/jayanth-kumar-aitha-25690b212" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Jayanth-503" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  
 </p>
